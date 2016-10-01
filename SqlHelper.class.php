@@ -3,7 +3,7 @@
         public $conn;
         public $dbname="stuadminsystem";
         public $username="root";
-        public $password="Aa83119608";
+        public $password="";
         public $host="localhost";
         public function __construct(){
         //注意，构造函数这里是两个下划线
